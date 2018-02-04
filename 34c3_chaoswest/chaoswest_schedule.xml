@@ -1,0 +1,846 @@
+<schedule>
+  <version>1.0</version>
+  <conference>
+    <title>34C3 ChaosWest</title>
+    <acronym>34c3-ChaosWest</acronym>
+    <days>4</days>
+    <start>2017-12-27</start>
+    <end>2017-12-30</end>
+    <timeslot_duration>0:05</timeslot_duration>
+  </conference>
+  <day index="1" date="2017-12-27" start="2017-12-27T14:30:00" end="2017-12-27T22:45:00">
+    <room name="ChaosWest Stage">
+      <event guid="7fcad042-c9e4-5713-8991-938d7e33f050" id="1">
+        <date>2017-12-27T14:30:00</date>
+        <start>14:30</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-1-three_ways_to_enhance_metadata_protection_beyond_tor_secushare_org</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Three Ways to Enhance Metadata Protection Beyond Tor - secushare.org</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+1. the *cover traffic* from file sharing, DHT and eventually multicast; 
+2. the *framing* of application data, 3. *mixnets* for high-latency applications. 
+http://secushare.cheettyiapsyciew.onion/anonymity
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="1">lynX</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="759bcf8b-b8d8-5087-9c02-0c2faa0ab8b4" id="2">
+        <date>2017-12-27T15:00:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-2-modeling_trust_in_a_distributed_private_social_network_secushare_org</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Modeling Trust in a Distributed Private Social Network - secushare.org</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Deeper aspects of the design of secushare, presented by t3sserakt and xrs. </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="2">t3sserakt</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="1c3ff3c0-00f3-5d3b-b141-c8db54bf0b26" id="3">
+        <date>2017-12-27T20:45:00</date>
+        <start>20:45</start>
+        <duration>0:25</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-3-namecoin_as_a_decentralized_alternative_to_certificate_authorities_for_tls</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Namecoin as a Decentralized Alternative to Certificate Authorities for TLS</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Certificate authorities suck, but the proposed replacements (e.g. DNSSEC/DANE) aren't so great either. We think Namecoin can help here, and the code is working and released! </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="3">JeremyRand</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="ca097e7e-351f-5f1c-b2d4-a58c6bf6113f" id="4">
+        <date>2017-12-27T19:00:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-4-monerujo_android_monero_wallet</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Monerujo - Android Monero Wallet</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Developing a Monero Wallet for Android. Process, Tools, People. 
+https://monerujo.io
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="4">M2049r</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="bb239a0d-bf40-5e30-bc9b-aa060640eeab" id="5">
+        <date>2017-12-27T19:00:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-5-monero_hardware_development</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Monero Hardware Development</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+This half-hour talk will spend time answering the five most asked questions, accept and answer five more and explain the state of the hardware wallet project. 
+https://getmonero.org
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="4">M2049r</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="84639ed6-fb5d-584a-a879-84e60b0cafd5" id="6">
+        <date>2017-12-27T21:00:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-6-privacy_oriented_distributed_networking_for_an_ethical_internet_including_50_subsystems_of_gnunet</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Privacy-Oriented Distributed Networking for an Ethical Internet - including 50 subsystems of GNUnet</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet? 
+https://gnunet.org
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="1">lynX</person>
+          <person id="6">grothoff</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="a87a0521-6b12-5dca-851a-c32a13cc4581" id="7">
+        <date>2017-12-27T22:00:00</date>
+        <start>22:00</start>
+        <duration>0:45</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-7-scalable_and_privacy_respectful_distributed_systems_our_chance_to_avoid_cloud_computing</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Scalable and privacy-respectful distributed systems - Our chance to avoid cloud computing?</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+We tried to make federation scale. We failed.
+We realized that cloud computing cannot be beaten by federated networks. Let's scale up distributed systems while maintaining metadata protection and privacy. 
+http://secushare.cheettyiapsyciew.onion
+
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="1">lynX</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+    </room>
+  </day>
+  <day index="2" date="2017-12-28" start="2017-12-28T15:30:00" end="2017-12-28T20:45:00">
+    <room name="ChaosWest Stage">
+      <event guid="97fcaa8c-c6fd-51ee-949d-c0eb45044ed4" id="8">
+        <date>2017-12-28T15:30:00</date>
+        <start>15:30</start>
+        <duration>0:25</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-8-opentimestamps_scalable_trustless_distributed_timestamping_with_bitcoin</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>OpenTimestamps: Scalable, Trustless, Distributed Timestamping with Bitcoin </title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract> timestamps are occasionally referred to as proofs-of-existence. Being able to prove that data existed prior to a point in time is surprisingly useful. Let‘s look at some use-cases to understand how Bitcoin Blockchain can help out here. </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="8">Rootzoll</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url />
+      </event>
+      <event guid="42f5e6aa-c6a5-5e3f-aac5-cff8edbfd397" id="9">
+        <date>2017-12-28T17:30:00</date>
+        <start>17:30</start>
+        <duration>0:25</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-9-namecoin_for_tor_onion_service_naming_and_other_darknets</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Namecoin for Tor Onion Service Naming (And Other Darknets?)</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Namecoin for Tor Onion Service Naming (And Other Darknets?): Fixing the usability issues caused by the longer v3 onion services. (Code is working and released.) </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="3">JeremyRand</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="0da9f0ce-7f7e-56b1-bbc0-9c5b410918e8" id="10">
+        <date>2017-12-28T18:00:00</date>
+        <start>18:00</start>
+        <duration>0:40</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-10-bisq_a_decentralized_bitcoin_exchange</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Bisq - A decentralized bitcoin exchange</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+In this talk we'll explore Bisq – a decentralized, peer-to-peer bitcoin exchange that allows people to trade bitcoin for national currencies like US dollars and Euros, as well as for other cryptocurrencies like Litecoin, Monero and Namecoin. Bisq has been in development since early 2014 and in production since mid-2016, with a no-compromises approach to security, privacy and censorship resistance. 
+https://bisq.network
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="10">Cbeams</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="10b7012e-9b62-507f-affc-02aedfd964c8" id="11">
+        <date>2017-12-28T18:45:00</date>
+        <start>18:45</start>
+        <duration>0:25</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-11-a_blueprint_for_making_namecoin_anonymous</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>A Blueprint for Making Namecoin Anonymous</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Namecoin aims to support anonymous name registrations, but our approach isn't to simply implement the Monero or Zcash anonymity features as consensus rules. I'll explain why we're taking a very different approach. </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="3">JeremyRand</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="74d7736f-f73a-5164-9e7d-2fc69e74cc99" id="12">
+        <date>2017-12-28T19:15:00</date>
+        <start>19:15</start>
+        <duration>0:45</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-12-nextcloud_end_to_end_encryption</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Nextcloud End to End Encryption</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Nextcloud 13, about to be released, will include end-to-end encryption. We've come up with a way to encrypt files on the client without the server having any way to gain access to the plain text format, despite the server facilitating the sharing and such. In the talk we'll explain what we wanted to achieve and how we did it - input very much welcome, of course. 
+https://nextcloud.com/endtoend
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="13">Jospoortvliet</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="a6054988-4570-5b14-8a61-ef934f21c10e" id="13">
+        <date>2017-12-28T20:00:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-13-eigenes_hacklab_bauen</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Eigenes HackLab bauen!</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Aufbau eines HackLabs auf VM und oder Hardware basis für jedes Budget! 
+https://chaos-west.de/wiki/index.php?title=Diskussion:34C3/B%C3%BChne/Slots#D_Town.2C_Christopher:_Aufbau_eines_HackLabs_auf_VM_und_oder_Hardware_basis_f.C3.BCr_jedes_Budget.21
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="14">D_Town</person>
+          <person id="15">ChristoperEnglish</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+    </room>
+  </day>
+  <day index="3" date="2017-12-29" start="2017-12-29T13:00:00" end="2017-12-29T23:30:00">
+    <room name="ChaosWest Stage">
+      <event guid="50b93447-e293-5f65-ba8f-e670db1f117f" id="14">
+        <date>2017-12-29T13:00:00</date>
+        <start>13:00</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-14-hacking_worldviews_hacking_abstractions</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Hacking Worldviews / Hacking Abstractions</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Worldview change and and critique are two related topics which can both be approached as a hunt for security vulnerabilities. In this talk, I will present a model for "inflitrating misconceptions" to upgrade worldviews, and I will show how this is similar to an enantiodromial model of conceptual critique. 
+http://andersaamodt.com/oeuvre.php
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="16">Deicidus</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="a8c0887d-265e-56e1-ba30-724e47b0a7b5" id="15">
+        <date>2017-12-29T14:45:00</date>
+        <start>14:45</start>
+        <duration>1:15</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-15-net2o_gui_realtime_mixnet_and_ethical_micropayment_with_efficient_blockchain</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>net2o: GUI, realtime mixnet and ethical micropayment with efficient BlockChain</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet 
+http://youbroketheinternet.org/
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="17">Forthy</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="b41404a3-3f9b-55b3-8dee-e086fdd4f66d" id="16">
+        <date>2017-12-29T16:00:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-16-in_der_weihnachtsba_ckerei_data_science_und_kekse</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>In der Weihnachtsbäckerei - Data Science und Kekse </title>
+        <language>de</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Quelle von Datensätzen, Logistik von Big Data, Bildung effizienter Features, Principal Component Analysis und andere statistische Methoden, Clustering, Neuronale Netzwerke vs. Deep Learning, Wie interpretiere ich Daten, Präsentation von Ergebnissen </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="18">Limlug</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="59bd1877-6132-57ae-a9ed-ee71e5e63d67" id="17">
+        <date>2017-12-29T17:00:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-17-inj4n_habitual_automation_because_we_have_to_script</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Inj4n: Habitual Automation - Because we have to script </title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+The assembly will try to collect your tool-stories, the mysterious setup of your most mundane tasks or the most elaborate (yet unfinished) projects to code where others have been using pen and paper for ages. In workshops we will tell our own stories and help you to become as addicted to the command line as we are. Most important, we will be there for all our fellow addicts of tool-chain-optimisation to have yet another endless discussion on the advantages of shell X, editor Y, or the usefulness of using graph databases for shopping lists. 
+http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="19">unknown</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="e340f48d-a241-5296-aea5-821917671506" id="18">
+        <date>2017-12-29T18:00:00</date>
+        <start>18:00</start>
+        <duration>0:25</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-18-p2p_with_javascript_to_defend_against_bad_lawmaking</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>P2P with JavaScript to defend against bad lawmaking</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet 
+http://youbroketheinternet.org/
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="28">Astro</person>
+          <person id="29">mafintosh</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="efe82374-e0c2-5beb-a462-305df7dbec7a" id="19">
+        <date>2017-12-29T18:30:00</date>
+        <start>18:30</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-19-die_programmiersprache_forth</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Die Programmiersprache Forth</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet
+http://youbroketheinternet.org/
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="17">Forthy</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="b389edae-a087-58dc-89ce-6fc6cae84c68" id="21">
+        <date>2017-12-29T19:15:00</date>
+        <start>19:15</start>
+        <duration>1:00</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-21-einfa1_4hrung_in_den_openstreetmap_online_editor_id</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Einführung in den OpenStreetMap Online-Editor iD </title>
+        <language>de</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+In dieser Session wird euch der Online-Editor iD vorgestellt werden, mit dem ihr zu OpenStreetMap beitragen könnt. 
+https://www.openstreetmap.de/
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="20">Nakaner</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="f64deec6-e13f-54e8-8afa-22cdcf9d8f81" id="22">
+        <date>2017-12-29T20:20:00</date>
+        <start>20:20</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-22-on_scripting</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>On Scripting </title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract />
+        <description />
+        <logo />
+        <persons>
+          <person id="21">unknown</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="cfbbe011-21fc-597f-a925-c7c3e86509ee" id="23">
+        <date>2017-12-29T21:30:00</date>
+        <start>21:30</start>
+        <duration>2:00</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-23-34c3_ctf_afterparty</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>34C3 CTF Afterparty</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+The 34C3 concludes and we will honor the first three teams. Then there will be ample opportunity to discuss challenges, CTF in general and drink beer. 
+https://34c3ctf.ccc.ac/announcements/
+
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="22">Andy</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="ed6c2ab5-68a0-552e-94d3-63a3cc028cd0" id="28">
+        <date>2017-12-29T14:00:00</date>
+        <start>14:00</start>
+        <duration>0:40</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-28-securedrop</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>SecureDrop </title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>SecureDrop is an free software whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by Freedom of the Press Foundation. </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="27">Bmeson</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="3718848e-357f-50ad-bd9c-654a9488d025" id="29">
+        <date>2017-12-29T21:00:00</date>
+        <start>21:00</start>
+        <duration>0:20</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-29-session_statebox_compositional_smart_contracts_through_category_theory</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Session:Statebox - compositional smart contracts through category theory</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>A short presentation on a new approach to writing programs inspired by graphical calculi developed for quantum protocols (amongst others). </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="30">Wires</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+    </room>
+  </day>
+  <day index="4" date="2017-12-30" start="2017-12-30T13:00:00" end="2017-12-30T18:00:00">
+    <room name="ChaosWest Stage">
+      <event guid="7a9b5382-8a68-5969-8891-045996c9870a" id="24">
+        <date>2017-12-30T13:00:00</date>
+        <start>13:00</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-24-scuttlebutt_introduction</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Scuttlebutt introduction</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.
+'Unforgeable‘ means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages. 
+https://www.scuttlebutt.nz/
+
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="23">Yangwao</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="98a509e4-80e4-5d72-94db-8220358225bc" id="25">
+        <date>2017-12-30T16:15:00</date>
+        <start>16:15</start>
+        <duration>1:00</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-25-ethereum_ama</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Ethereum AMA</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+There are several Ethereum Superstars at this conference, they are congregating on the Chaos West Stage to answer all of your questions about the decentralized world computer. :-D 
+www.ethereum.org
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="24">Griff </person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="2180ad03-5c90-5099-a00b-a9be0f719900" id="26">
+        <date>2017-12-30T14:00:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-26-magic_internet_money</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Magic Internet Money</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+So you've probably heard that there is this relatively new thing called cryptocurrencies, supposedly some kind of revolutionary "magic internet money", which is gaining a lot of attention (and insane valuations) lately.
+But what is a crytocurrency anyway? does it work exactly? Most importantly - why does it work like that? Instead of answering these questions directly, we will answer them and more, by putting our Satoshi Nakamoto hats and inventing our own cryptocurrency from scratch. 
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="25">Kajilot</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="992761a5-f56d-594e-b542-7bda516c8594" id="27">
+        <date>2017-12-30T15:15:00</date>
+        <start>15:15</start>
+        <duration>0:50</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-27-honigdachs_podcast_live</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Honigdachs-Podcast LIVE</title>
+        <language>de</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Honigdachs ist das Podcast-Angebot des Leipziger Bitcoin-Stammtisches, in dem monatlich vertieft auf einzelne Themen rund um Bitcoin eingegangen wird. Hintergründig, praxisnah und meinungsstark richten sich die einzelnen Folgen sowohl an Einsteiger, wie auch an erfahrene Bitcoin- und Blockchain-Interessierte.
+Auf dem 34C3 machen wir einen Rückblick über das Jahr und den Kongress und wagen einen Ausblick auf das kommende Jahr 2018. 
+https://coinspondent.de/news-nachrichten/bitcoin-podcasts/honigdachs-der-bitcoin-podcast-aus-leipzig/
+
+        </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="26">Rootzoll</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="0febf3d3-23c2-5745-8395-a1dd11683a08" id="30">
+        <date>2017-12-30T13:30:00</date>
+        <start>13:30</start>
+        <duration>0:25</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-30-hacking_sovereignty_in_catalonia_1st_step_decentralized_infrastructure</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Hacking Sovereignty in Catalonia; 1st Step: Decentralized Infrastructure </title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Jordi Baylina presents his plan to deploy personal servers throughout Catalonia to build a decentralized infrastructure for the country. If you want to help, join Giveth's Riot channel and lets build the decentralized revolution together. </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="32">Jordi</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      <event guid="8ea26080-f036-5d86-88dc-c4ce39edd2d1" id="31">
+        <date>2017-12-30T17:15:00</date>
+        <start>17:15</start>
+        <duration>0:45</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-31-ethereum_s_whg_tells_all_the_dao_hack_parity_hack_and_giveth</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Ethereum's WHG Tells All: The DAO Hack, Parity Hack and Giveth </title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Jordi Baylina and Griff Green tell the story of The DAO Hack, Giveth and Parity Hacks from the perspective of the WHG, Followed by QandA </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="32">Jordi</person>
+          <person id="31">Griff</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+    </room>
+  </day>
+</schedule>
