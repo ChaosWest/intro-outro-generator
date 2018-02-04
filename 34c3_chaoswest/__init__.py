@@ -4,7 +4,7 @@ from renderlib import *
 from easing import *
 
 # URL to Schedule-XML
-scheduleUrl = 'http://live.ber.c3voc.de/releases/public/wikidatacon2017.xml'
+scheduleUrl = 'https://raw.githubusercontent.com/ChaosWest/intro-outro-generator/master/34c3_chaoswest/chaoswest_schedule.xml'
 
 
 def introFrames(args):
