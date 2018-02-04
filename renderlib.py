@@ -91,7 +91,7 @@ def rendertask(task):
 		parser = etree.XMLParser(huge_tree=True)
 		svg = etree.fromstring(svgstr.encode('utf-8'), parser)
 
-	if task.parameters['$subtitle'] == '':
+	if '$subtitle' in task.parameters and task.parameters['$subtitle'] == '':
 		child = svg.findall(".//*[@id='subtitle']")[0]
 		child.getparent().remove(child)
 
@@ -191,7 +191,7 @@ def rendertask(task):
 		else:
 			cmd += '-i {0} -i {0} '.format(task.audiofile)
 
-		cmd += '-map 0:0 -c:v mpeg2video -q:v 5 -aspect 16:9 '
+		cmd += '-map 0:0 -c:v mpeg2video -q:v 2 -aspect 16:9 '
 
 		if task.audiofile is None:
 			cmd += '-map 1:0 -map 2:0 '
