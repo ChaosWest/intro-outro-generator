@@ -76,7 +76,8 @@
         <subtitle />
         <track />
         <type />
-        <abstract>Certificate authorities suck, but the proposed replacements (e.g. DNSSEC/DANE) aren't so great either. We think Namecoin can help here, and the code is working and released! </abstract>
+        <abstract>Certificate authorities suck, but the proposed replacements (e.g. DNSSEC/DANE) aren't so great either. We think Namecoin can help here, and the code is working and released! Certificate authorities (CA's) pose a serious threat to the TLS ecosystem. Unfortunately, the various proposed solutions (e.g. Convergence, DANE, HPKP, CAA, and CT) do not solve the underlying problem: the existence of trusted parties in the process of converting a domain name to a certificate acceptance policy. While it may be an improvement to reshuffle the trusted parties to have more trust agility (Convergence), a smaller set of fully trusted parties (DANE), a more limited window of opportunity for attackers (HPKP and CT) or more accountability after-the-fact (HPKP, CAA, and CT), we think it's time to solve the underlying problem. Namecoin introduces the ability to do exactly that: if you know a Namecoin domain name, you can find out which TLS certificates are valid for it, with a threat model and codebase nearly identical to the battle-hardened Bitcoin. In addition, we figured out how to make this work in the real world of uncooperative web browsers: Namecoin TLS certificate validation works with Chromium on Windows, without the high attack surface of intercepting proxies or the cookie leakage of browser extension API's.
+        </abstract>
         <description />
         <logo />
         <persons>
@@ -153,7 +154,7 @@
         <subtitle />
         <track />
         <type />
-        <abstract> How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet? https://gnunet.org
+        <abstract> How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet? - What distributed systems can do for a new, democracy-compliant Internet. TBC: Prof. Grothoff of GNUnet. https://gnunet.org
         </abstract>
         <description />
         <logo />
@@ -313,9 +314,7 @@ https://bisq.network
         <subtitle />
         <track />
         <type />
-        <abstract>
-Nextcloud 13, about to be released, will include end-to-end encryption. We've come up with a way to encrypt files on the client without the server having any way to gain access to the plain text format, despite the server facilitating the sharing and such. In the talk we'll explain what we wanted to achieve and how we did it - input very much welcome, of course. 
-https://nextcloud.com/endtoend
+        <abstract>Nextcloud 13, about to be released, will include end-to-end encryption. We've come up with a way to encrypt files on the client without the server having any way to gain access to the plain text format, despite the server facilitating the sharing and such. In the talk we'll explain what we wanted to achieve and how we did it - input very much welcome, of course.  As you probably know, if you want End to End (end-to-end) encryption with file sync and share right now it is a game of compromises. You might not be able to share without giving out your passwords, or have no web interface at all, or compromise security by having browser side encryption and decryption, or have manage your own TrueCrypt file, use clunky third party tools and so on. Nextcloud designed a client-side end-to-end encryption protocol meant to protect user data from nosy system administrators or a full server security breach while limiting usability as little as possible. Of course, some functionality got lost but we think we struck a pretty decent balance between usefulness and security. The goal of being easy to use was central because complexity leads to mistakes and mistakes lead to security breaches. We avoided users picking and sharing passwords, for example, but also Our end-to-end works on a per-folder level and features an easy to use, server-assisted but fully secure key management with Cryptographic Identity Protection, our method of securely signing and handling user certificates. Users can easily access their data on any of their devices using the clients (not via the web interface) and share with other users, securely. But it also offers an audit log, optional offline admin recovery key and more features. We'll go over the design in this talk and take your feedback on it! - https://nextcloud.com/endtoend
         </abstract>
         <description />
         <logo />
