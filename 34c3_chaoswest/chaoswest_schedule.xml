@@ -25,10 +25,7 @@
         <subtitle />
         <track />
         <type />
-        <abstract>
-1. the *cover traffic* from file sharing, DHT and eventually multicast; 
-2. the *framing* of application data, 3. *mixnets* for high-latency applications. 
-http://secushare.cheettyiapsyciew.onion/anonymity
+        <abstract> First way: Cover traffic from file sharing, DHT and eventually multicast; Secondly, framing of application data, thirdly, mixnets for high-latency applications. http://secushare.cheettyiapsyciew.onion/anonymity
         </abstract>
         <description />
         <logo />
@@ -66,7 +63,7 @@ http://secushare.cheettyiapsyciew.onion/anonymity
       </event>
       <event guid="1c3ff3c0-00f3-5d3b-b141-c8db54bf0b26" id="3">
         <date>2017-12-27T20:45:00</date>
-        <start>20:45</start>
+        <start>16:00</start>
         <duration>0:25</duration>
         <room>ChaosWest Stage</room>
         <slug>34c3-ChaosWest-3-namecoin_as_a_decentralized_alternative_to_certificate_authorities_for_tls</slug>
@@ -104,9 +101,7 @@ http://secushare.cheettyiapsyciew.onion/anonymity
         <subtitle />
         <track />
         <type />
-        <abstract>
-Developing a Monero Wallet for Android. Process, Tools, People. 
-https://monerujo.io
+        <abstract> Developing a Monero Wallet for Android. Process, Tools, People. https://monerujo.io
         </abstract>
         <description />
         <logo />
@@ -119,7 +114,7 @@ https://monerujo.io
       </event>
       <event guid="bb239a0d-bf40-5e30-bc9b-aa060640eeab" id="5">
         <date>2017-12-27T19:00:00</date>
-        <start>19:00</start>
+        <start>19:30</start>
         <duration>0:30</duration>
         <room>ChaosWest Stage</room>
         <slug>34c3-ChaosWest-5-monero_hardware_development</slug>
@@ -132,9 +127,7 @@ https://monerujo.io
         <subtitle />
         <track />
         <type />
-        <abstract>
-This half-hour talk will spend time answering the five most asked questions, accept and answer five more and explain the state of the hardware wallet project. 
-https://getmonero.org
+        <abstract> This half-hour talk will spend time answering the five most asked questions, accept and answer five more and explain the state of the hardware wallet project. https://getmonero.org
         </abstract>
         <description />
         <logo />
@@ -160,9 +153,7 @@ https://getmonero.org
         <subtitle />
         <track />
         <type />
-        <abstract>
-How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet? 
-https://gnunet.org
+        <abstract> How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet? https://gnunet.org
         </abstract>
         <description />
         <logo />
@@ -189,11 +180,7 @@ https://gnunet.org
         <subtitle />
         <track />
         <type />
-        <abstract>
-We tried to make federation scale. We failed.
-We realized that cloud computing cannot be beaten by federated networks. Let's scale up distributed systems while maintaining metadata protection and privacy. 
-http://secushare.cheettyiapsyciew.onion
-
+        <abstract> We tried to make federation scale. We failed. We realized that cloud computing cannot be beaten by federated networks. Let's scale up distributed systems while maintaining metadata protection and privacy. http://secushare.cheettyiapsyciew.onion
         </abstract>
         <description />
         <logo />

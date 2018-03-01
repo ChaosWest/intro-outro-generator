@@ -1,0 +1,7 @@
+Hallo,
+
+ich prüfe gerade die xml und habe folgende Fragen:
+
+1.) Zeile 9: timeslot_duration: unsere Vorträge sind unterschiedlich lang, was ist hier einzugeben?
+2.) Zeile 13 und alle guids: ich hoffe die werden automagisch erstellt und verwaltet?
+3.) 
