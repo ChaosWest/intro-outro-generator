@@ -340,9 +340,7 @@ https://bisq.network
         <subtitle />
         <track />
         <type />
-        <abstract>
-Aufbau eines HackLabs auf VM und oder Hardware basis für jedes Budget! 
-https://chaos-west.de/wiki/index.php?title=Diskussion:34C3/B%C3%BChne/Slots#D_Town.2C_Christopher:_Aufbau_eines_HackLabs_auf_VM_und_oder_Hardware_basis_f.C3.BCr_jedes_Budget.21
+        <abstract>Aufbau eines HackLabs auf VM und oder Hardware basis für jedes Budget! D_Town und Christopher English 20 + 10 Thema: Aufbau eines HackLabs auf VM und oder Hardware basis für jedes Budget! Vortragende sind Whitehat mit Schwerpunkt Pentesting und Defensiv Security Cyber Security Threat and Awareness Coordination (Nicht an Tag 2 13-16, Nicht an Tag 3 10-17)
         </abstract>
         <description />
         <logo />
@@ -360,7 +358,7 @@ https://chaos-west.de/wiki/index.php?title=Diskussion:34C3/B%C3%BChne/Slots#D_To
     <room name="ChaosWest Stage">
       <event guid="50b93447-e293-5f65-ba8f-e670db1f117f" id="14">
         <date>2017-12-29T13:00:00</date>
-        <start>13:00</start>
+        <start>13:30</start>
         <duration>0:30</duration>
         <room>ChaosWest Stage</room>
         <slug>34c3-ChaosWest-14-hacking_worldviews_hacking_abstractions</slug>
@@ -373,9 +371,7 @@ https://chaos-west.de/wiki/index.php?title=Diskussion:34C3/B%C3%BChne/Slots#D_To
         <subtitle />
         <track />
         <type />
-        <abstract>
-Worldview change and and critique are two related topics which can both be approached as a hunt for security vulnerabilities. In this talk, I will present a model for "inflitrating misconceptions" to upgrade worldviews, and I will show how this is similar to an enantiodromial model of conceptual critique. 
-http://andersaamodt.com/oeuvre.php
+        <abstract> Worldview change and and critique are two related topics which can both be approached as a hunt for security vulnerabilities. In this talk, I will present a model for "inflitrating misconceptions" to upgrade worldviews, and I will show how this is similar to an enantiodromial model of conceptual critique. http://andersaamodt.com/oeuvre.php
         </abstract>
         <description />
         <logo />
@@ -401,14 +397,12 @@ http://andersaamodt.com/oeuvre.php
         <subtitle />
         <track />
         <type />
-        <abstract>
-youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet 
-http://youbroketheinternet.org/
+        <abstract> youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet. http://youbroketheinternet.org/
         </abstract>
         <description />
         <logo />
         <persons>
-          <person id="17">Forthy</person>
+          <person id="17">Bernd Paysan</person>
         </persons>
         <links />
         <attachments />
@@ -454,14 +448,13 @@ http://youbroketheinternet.org/
         <subtitle />
         <track />
         <type />
-        <abstract>
-The assembly will try to collect your tool-stories, the mysterious setup of your most mundane tasks or the most elaborate (yet unfinished) projects to code where others have been using pen and paper for ages. In workshops we will tell our own stories and help you to become as addicted to the command line as we are. Most important, we will be there for all our fellow addicts of tool-chain-optimisation to have yet another endless discussion on the advantages of shell X, editor Y, or the usefulness of using graph databases for shopping lists. 
+        <abstract> The assembly will try to collect your tool-stories, the mysterious setup of your most mundane tasks or the most elaborate (yet unfinished) projects to code where others have been using pen and paper for ages. In workshops we will tell our own stories and help you to become as addicted to the command line as we are. Most important, we will be there for all our fellow addicts of tool-chain-optimisation to have yet another endless discussion on the advantages of shell X, editor Y, or the usefulness of using graph databases for shopping lists. 
 http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         </abstract>
         <description />
         <logo />
         <persons>
-          <person id="19">unknown</person>
+          <person id="19">inj4n</person>
         </persons>
         <links />
         <attachments />
@@ -482,9 +475,7 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <subtitle />
         <track />
         <type />
-        <abstract>
-youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet 
-http://youbroketheinternet.org/
+        <abstract> youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet. http://youbroketheinternet.org/
         </abstract>
         <description />
         <logo />
@@ -511,14 +502,12 @@ http://youbroketheinternet.org/
         <subtitle />
         <track />
         <type />
-        <abstract>
-youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet
-http://youbroketheinternet.org/
+        <abstract> youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet. http://youbroketheinternet.org/
         </abstract>
         <description />
         <logo />
         <persons>
-          <person id="17">Forthy</person>
+          <person id="17">Twiddlebit</person>
         </persons>
         <links />
         <attachments />
@@ -539,9 +528,7 @@ http://youbroketheinternet.org/
         <subtitle />
         <track />
         <type />
-        <abstract>
-In dieser Session wird euch der Online-Editor iD vorgestellt werden, mit dem ihr zu OpenStreetMap beitragen könnt. 
-https://www.openstreetmap.de/
+        <abstract> In dieser Session wird euch der Online-Editor iD vorgestellt werden, mit dem ihr zu OpenStreetMap beitragen könnt. https://www.openstreetmap.de/
         </abstract>
         <description />
         <logo />
@@ -592,10 +579,7 @@ https://www.openstreetmap.de/
         <subtitle />
         <track />
         <type />
-        <abstract>
-The 34C3 concludes and we will honor the first three teams. Then there will be ample opportunity to discuss challenges, CTF in general and drink beer. 
-https://34c3ctf.ccc.ac/announcements/
-
+        <abstract> The 34C3 concludes and we will honor the first three teams. Then there will be ample opportunity to discuss challenges, CTF in general and drink beer. https://34c3ctf.ccc.ac/announcements/
         </abstract>
         <description />
         <logo />
@@ -675,11 +659,7 @@ https://34c3ctf.ccc.ac/announcements/
         <subtitle />
         <track />
         <type />
-        <abstract>
-Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.
-'Unforgeable‘ means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages. 
-https://www.scuttlebutt.nz/
-
+        <abstract> Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds. 'Unforgeable‘ means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages. Scuttlebutt is the general idea or concept around all of this. It's definition is loose, and is often just meant to refer to this entire thing, in the way someone refers to "the internet" or "this afternoon". In this case, the thing is the idea of a network organized similar to an actual social graph, which communicates messages in a way similar to gossip. SSB stands for SecureScuttleButt. It is the protocol through which we can exchange messages, read each others' feeds, and make friends. You could compare it to TCP, which is an underlying protocol for how devices connect to one another on the internet. TCP is a network protocol, though, while SSB is a local protocol. This means it doesn't require any sort of internet connection to work. Patchwork,Patchbay, and Patchfoo are different applications used to interpret and display the various messages transmitted through SSB. A rough analogy would be that if SSB was like TCP, then an application like Patchwork would be like a web browser. A better analogy for all of this would be that Patchwork is a car you ride in and SecureScuttlebutt is the road you drive on. There are other types of cars that drive on the same road and you can drive a different car to the same place (car = application, road = protocol)- Your scuttlebutt is the data you carry with you - imagine a little slice of a parallel universe in your pocket. This data is yours and you can interact with it however you like. You can find more at https://www.scuttlebutt.nz/principles.html. There will be slides available. You can follow me at Patchwork/Scuttlebutt @NaDXehMSIgk08W5RXZJ0p+7m+19iIWEuAtD7FRESJX8=.ed25519 You can download Patchwork at https://github.com/ssbc/patchwork/releases Look for Pub at https://github.com/ssbc/scuttlebot/wiki/Pub-servers. https://www.scuttlebutt.nz/
         </abstract>
         <description />
         <logo />
@@ -705,9 +685,7 @@ https://www.scuttlebutt.nz/
         <subtitle />
         <track />
         <type />
-        <abstract>
-There are several Ethereum Superstars at this conference, they are congregating on the Chaos West Stage to answer all of your questions about the decentralized world computer. :-D 
-www.ethereum.org
+        <abstract>There are several Ethereum Superstars at this conference, they are congregating on the Chaos West Stage to answer all of your questions about the decentralized world computer. :-D www.ethereum.org
         </abstract>
         <description />
         <logo />
@@ -733,9 +711,7 @@ www.ethereum.org
         <subtitle />
         <track />
         <type />
-        <abstract>
-So you've probably heard that there is this relatively new thing called cryptocurrencies, supposedly some kind of revolutionary "magic internet money", which is gaining a lot of attention (and insane valuations) lately.
-But what is a crytocurrency anyway? does it work exactly? Most importantly - why does it work like that? Instead of answering these questions directly, we will answer them and more, by putting our Satoshi Nakamoto hats and inventing our own cryptocurrency from scratch. 
+        <abstract> So you've probably heard that there is this relatively new thing called cryptocurrencies, supposedly some kind of revolutionary "magic internet money", which is gaining a lot of attention (and insane valuations) lately. But what is a crytocurrency anyway? does it work exactly? Most importantly - why does it work like that? Instead of answering these questions directly, we will answer them and more, by putting our Satoshi Nakamoto hats and inventing our own cryptocurrency from scratch. 
         </abstract>
         <description />
         <logo />
@@ -791,7 +767,7 @@ https://coinspondent.de/news-nachrichten/bitcoin-podcasts/honigdachs-der-bitcoin
         <subtitle />
         <track />
         <type />
-        <abstract>Jordi Baylina presents his plan to deploy personal servers throughout Catalonia to build a decentralized infrastructure for the country. If you want to help, join Giveth's Riot channel and lets build the decentralized revolution together. </abstract>
+        <abstract>Jordi Baylina presents his plan to deploy personal servers throughout Catalonia to build a decentralized infrastructure for the country. If you want to help, join Giveth's Riot channel and lets build the decentralized revolution together. https://giveth.io/join/ </abstract>
         <description />
         <logo />
         <persons>
