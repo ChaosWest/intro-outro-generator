@@ -1,0 +1,13 @@
+Hallo,
+
+ich prüfe gerade die xml und habe folgende Fragen:
+
+1.) Zeile 9: timeslot_duration: unsere Vorträge sind unterschiedlich lang, was ist hier einzugeben?
+- void: das scheint nirgenswo in den finalen Daten zu landen. Ich denke wir können das ignorieren.
+
+2.) Zeile 13 und alle guids: ich hoffe die werden automagisch erstellt und verwaltet?
+- void: Ja, die wurden generiert und per import in das Publishing system übernommen
+
+3.) Zeile 387: den vortrag net2go hab ich nicht
+4.) Zeile 751: Ich glaube, die einzelnen Vorträge sind ein einer Runde abgefrühstückt worden
+- void: schauen wir mal wenn die viedeos fertig sind
