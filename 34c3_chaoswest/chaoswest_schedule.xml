@@ -387,7 +387,7 @@ https://bisq.network
         <start>14:00</start>
         <duration>0:40</duration>
         <room>ChaosWest Stage</room>
-        <slug>34c3-ChaosWest-28-securedrop</slug>
+        <slug>34c3-ChaosWest-15-securedrop</slug>
         <recording>
           <license>Creative Commons Attribution 4.0 International</license>
           <optout>false</optout>
@@ -412,7 +412,7 @@ https://bisq.network
         <start>14:45</start>
         <duration>1:15</duration>
         <room>ChaosWest Stage</room>
-        <slug>34c3-ChaosWest-15-net2o_gui_realtime_mixnet_and_ethical_micropayment_with_efficient_blockchain</slug>
+        <slug>34c3-ChaosWest-16-net2o_gui_realtime_mixnet_and_ethical_micropayment_with_efficient_blockchain</slug>
         <recording>
           <license>Creative Commons Attribution 4.0 International</license>
           <optout>false</optout>
@@ -433,12 +433,40 @@ https://bisq.network
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
-      <event guid="b41404a3-3f9b-55b3-8dee-e086fdd4f66d" id="16">
+<!-- Start eingeschobener vortrag -->
+      <event guid="" id="17">
+        <date>2017-12-29T16:00:00</date>
+        <start>15:45</start>
+        <duration>0:15</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-17-matrix-org-and-usable-messaging-today</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Matrix.org - and usable messaging today</title>
+        <language>ene</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Quelle von Datensätzen, Logistik von Big Data, Bildung effizienter Features, Principal Component Analysis und andere statistische Methoden, Clustering, Neuronale Netzwerke vs. Deep Learning, Wie interpretiere ich Daten, Präsentation von Ergebnissen </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="18">wildhax</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+<!-- Ende eingeschobener vortrag
+ab hier personen und event und slug +1 -->
+      <event guid="b41404a3-3f9b-55b3-8dee-e086fdd4f66d" id="17">
         <date>2017-12-29T16:00:00</date>
         <start>16:00</start>
         <duration>0:45</duration>
         <room>ChaosWest Stage</room>
-        <slug>34c3-ChaosWest-16-in_der_weihnachtsba_ckerei_data_science_und_kekse</slug>
+        <slug>34c3-ChaosWest-17-in_der_weihnachtsba_ckerei_data_science_und_kekse</slug>
         <recording>
           <license>Creative Commons Attribution 4.0 International</license>
           <optout>false</optout>
@@ -458,6 +486,7 @@ https://bisq.network
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
+<!-- -->
       <event guid="59bd1877-6132-57ae-a9ed-ee71e5e63d67" id="17">
         <date>2017-12-29T17:00:00</date>
         <start>17:00</start>
