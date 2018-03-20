@@ -539,14 +539,12 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
-<!-- ab hier personen und event und slug +1  -->
-
-      <event guid="efe82374-e0c2-5beb-a462-305df7dbec7a" id="19">
+      <event guid="efe82374-e0c2-5beb-a462-305df7dbec7a" id="20">
         <date>2017-12-29T18:30:00</date>
         <start>18:30</start>
         <duration>0:30</duration>
         <room>ChaosWest Stage</room>
-        <slug>34c3-ChaosWest-19-die_programmiersprache_forth</slug>
+        <slug>34c3-ChaosWest-20-die_programmiersprache_forth</slug>
         <recording>
           <license>Creative Commons Attribution 4.0 International</license>
           <optout>false</optout>
@@ -561,12 +559,14 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <description />
         <logo />
         <persons>
-          <person id="17">Twiddlebit</person>
+          <person id="22">Twiddlebit</person>
         </persons>
         <links />
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
+<!-- ab hier personen und event und slug +1  -->
+
       <event guid="b389edae-a087-58dc-89ce-6fc6cae84c68" id="21">
         <date>2017-12-29T19:15:00</date>
         <start>19:15</start>
