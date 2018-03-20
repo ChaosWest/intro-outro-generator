@@ -512,13 +512,12 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
-<!-- ab hier personen und event und slug +1  -->
-      <event guid="e340f48d-a241-5296-aea5-821917671506" id="18">
+      <event guid="e340f48d-a241-5296-aea5-821917671506" id="19">
         <date>2017-12-29T18:00:00</date>
         <start>18:00</start>
         <duration>0:25</duration>
         <room>ChaosWest Stage</room>
-        <slug>34c3-ChaosWest-18-p2p_with_javascript_to_defend_against_bad_lawmaking</slug>
+        <slug>34c3-ChaosWest-19-p2p_with_javascript_to_defend_against_bad_lawmaking</slug>
         <recording>
           <license>Creative Commons Attribution 4.0 International</license>
           <optout>false</optout>
@@ -533,13 +532,15 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <description />
         <logo />
         <persons>
-          <person id="28">Astro</person>
-          <person id="29">mafintosh</person>
+          <person id="20">Astro</person>
+          <person id="21">mafintosh</person>
         </persons>
         <links />
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
+<!-- ab hier personen und event und slug +1  -->
+
       <event guid="efe82374-e0c2-5beb-a462-305df7dbec7a" id="19">
         <date>2017-12-29T18:30:00</date>
         <start>18:30</start>
