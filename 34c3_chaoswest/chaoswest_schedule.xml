@@ -459,8 +459,7 @@ https://bisq.network
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
-<!-- Ende eingeschobener vortrag
-ab hier personen und event und slug +1 -->
+<!-- Ende eingeschobener vortrag-->
       <event guid="b41404a3-3f9b-55b3-8dee-e086fdd4f66d" id="17">
         <date>2017-12-29T16:00:00</date>
         <start>16:00</start>
@@ -486,13 +485,12 @@ ab hier personen und event und slug +1 -->
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
-<!-- -->
-      <event guid="59bd1877-6132-57ae-a9ed-ee71e5e63d67" id="17">
+      <event guid="59bd1877-6132-57ae-a9ed-ee71e5e63d67" id="18">
         <date>2017-12-29T17:00:00</date>
         <start>17:00</start>
         <duration>0:45</duration>
         <room>ChaosWest Stage</room>
-        <slug>34c3-ChaosWest-17-inj4n_habitual_automation_because_we_have_to_script</slug>
+        <slug>34c3-ChaosWest-18-inj4n_habitual_automation_because_we_have_to_script</slug>
         <recording>
           <license>Creative Commons Attribution 4.0 International</license>
           <optout>false</optout>
@@ -514,6 +512,7 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
+<!-- ab hier personen und event und slug +1  -->
       <event guid="e340f48d-a241-5296-aea5-821917671506" id="18">
         <date>2017-12-29T18:00:00</date>
         <start>18:00</start>
