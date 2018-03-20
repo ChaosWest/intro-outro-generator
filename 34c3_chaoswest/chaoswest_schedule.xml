@@ -565,8 +565,6 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
-<!-- ab hier personen und event und slug +1  -->
-
       <event guid="b389edae-a087-58dc-89ce-6fc6cae84c68" id="21">
         <date>2017-12-29T19:15:00</date>
         <start>19:15</start>
@@ -587,12 +585,13 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <description />
         <logo />
         <persons>
-          <person id="20">Nakaner</person>
+          <person id="23">Nakaner</person>
         </persons>
         <links />
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
+<!-- ab hier personen und event und slug +1  -->
       <event guid="f64deec6-e13f-54e8-8afa-22cdcf9d8f81" id="22">
         <date>2017-12-29T20:20:00</date>
         <start>20:20</start>
