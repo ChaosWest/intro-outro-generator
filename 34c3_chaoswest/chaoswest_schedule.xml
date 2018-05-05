@@ -803,8 +803,8 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
       <event guid="8ea26080-f036-5d86-88dc-c4ce39edd2d1" id="31">
-        <date>2017-12-30T17:15:00</date>
-        <start>17:15</start>
+        <date>2017-12-30T15:00:00</date>
+        <start>15:00</start>
         <duration>0:45</duration>
         <room>ChaosWest Stage</room>
         <slug>34c3-ChaosWest-31-ethereum_s_whg_tells_all_the_dao_hack_parity_hack_and_giveth</slug>
@@ -828,6 +828,33 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
+      
+       <event guid="8ea26080-f036-5d86-88dc-c4ce39edd2d1" id="32">
+        <date>2017-12-30T17:00:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-31-ethereum_s_whg_tells_all_the_dao_hack_parity_hack_and_giveth</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Giveth: Decentralizing the Non-Profit World - Building Transparent Communities with Smart Contracts</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Griff, the Great, Giveth about his plan to decentralize the Non-Profit World. He displays the use of smart contracts to build and support communities. https://giveth.io/join/ </abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="31">Griff</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+      
     </room>
   </day>
 </schedule>
