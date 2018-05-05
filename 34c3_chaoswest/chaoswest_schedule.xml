@@ -433,33 +433,7 @@ https://bisq.network
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
-<!-- Start eingeschobener vortrag -->
-      <event guid="" id="17">
-        <date>2017-12-29T16:00:00</date>
-        <start>15:45</start>
-        <duration>0:15</duration>
-        <room>ChaosWest Stage</room>
-        <slug>34c3-ChaosWest-17-matrix-org-and-usable-messaging-today</slug>
-        <recording>
-          <license>Creative Commons Attribution 4.0 International</license>
-          <optout>false</optout>
-        </recording>
-        <title>Matrix.org - and usable messaging today</title>
-        <language>ene</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>Quelle von Datensätzen, Logistik von Big Data, Bildung effizienter Features, Principal Component Analysis und andere statistische Methoden, Clustering, Neuronale Netzwerke vs. Deep Learning, Wie interpretiere ich Daten, Präsentation von Ergebnissen </abstract>
-        <description />
-        <logo />
-        <persons>
-          <person id="18">wildhax</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url>https://too.be/defined.mkv</video_download_url>
-      </event>
-<!-- Ende eingeschobener vortrag-->
+<!-- hier fand dann matrix.org von wildhax statt. neue id 33 -->
       <event guid="b41404a3-3f9b-55b3-8dee-e086fdd4f66d" id="17">
         <date>2017-12-29T16:00:00</date>
         <start>16:00</start>
@@ -854,6 +828,34 @@ http://www.ccchb.de/wiki/34c3_Assembly_Habitual_Automation
         <attachments />
         <video_download_url>https://too.be/defined.mkv</video_download_url>
       </event>
+      
+      <!-- Start eingeschobener vortrag ursprüngliche id = 16.1-->
+      <event guid="" id="33">
+        <date>2017-12-29T16:00:00</date>
+        <start>15:45</start>
+        <duration>0:15</duration>
+        <room>ChaosWest Stage</room>
+        <slug>34c3-ChaosWest-17-matrix-org-and-usable-messaging-today</slug>
+        <recording>
+          <license>Creative Commons Attribution 4.0 International</license>
+          <optout>false</optout>
+        </recording>
+        <title>Matrix.org - and usable messaging today</title>
+        <language>ene</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Wildhax and friend about matrix.org</abstract>
+        <description />
+        <logo />
+        <persons>
+          <person id="18">wildhax</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url>https://too.be/defined.mkv</video_download_url>
+      </event>
+<!-- Ende eingeschobener vortrag-->
       
     </room>
   </day>
